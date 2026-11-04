@@ -30,8 +30,7 @@ plt.tight_layout()
 plt.savefig('docs/charts/02_monthly_trend.png', dpi=150)
 plt.close()
 
-#3. relief rate by company, same issue (purchase problems)
-# 3. Relief rate by company, same issue (purchase problems)
+#3. Relief rate by company, same issue (purchase problems)
 sub = df[df["issue"].str.contains("purchase shown", case=False, na=False)]
 print("Purchase-problem rows:", len(sub))
 g = sub.groupby("company").agg(n=("complaint_id", "count"), relief=("got_relief", "mean"))
