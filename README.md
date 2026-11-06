@@ -2,7 +2,7 @@
 
 An end-to-end analysis of consumer complaints about credit cards and money transfer services, using SQL, Python, and a dashboard. The goal is to find what drives complaints, where outcomes are inconsistent, and which process changes to prioritize.
 
-**Dashboard:** _add your Tableau Public link here_
+**Dashboard:** https://public.tableau.com/app/profile/kashish.tinguria/viz/CFPBComplaintAnalytics/ComplaintDashboard?publish=yes
 **Insights memo:** [docs/insights_memo.md](docs/insights_memo.md)
 
 ## Business problem
