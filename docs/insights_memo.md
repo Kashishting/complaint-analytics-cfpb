@@ -1,6 +1,6 @@
 # Insights Memo: Credit Card and Money Transfer Complaints
 
-**Prepared by:** _your name_
+**Prepared by:** Kashish
 **Date:** November 2026
 **Data:** 99,944 CFPB consumer complaints (credit card; money transfer, virtual currency, or money service), received January to October 2026
 
